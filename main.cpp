@@ -4,6 +4,8 @@
 
 int main(int argc, char** argv) {
 	
-	std::cout<<"Saniok"<<std::endl;
+	std::cout<<"Saniok Yo!"<<std::endl;
+	
+	system("pause");
 	return 0;
 }
